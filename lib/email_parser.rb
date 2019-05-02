@@ -17,4 +17,4 @@ def parse
    .flatten.uniq
  end
 end
-end
+
