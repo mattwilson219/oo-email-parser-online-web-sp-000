@@ -14,7 +14,7 @@ def parse
   emails.split.map do |address|
     address.split(',')
   end
-  flatten.uniq 
+  flatten.uniq
 end
 end
 
